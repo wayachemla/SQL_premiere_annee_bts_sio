@@ -7,7 +7,7 @@
 
 | Champ | Valeur |
 |---|---|
-| Étudiant | Non fourni |
+| Étudiant | Waya CHEMLA |
 | Base de données | xybibli |
 | Module | Base de données — BTS SIO 1ère année |
 
