@@ -7,7 +7,6 @@
 |---|---|
 | **Étudiant** | Waya CHEMLA |
 | **Base de données** | `wybibli` |
-| **Date** | 26/06/2026 |
 | **Module** | Base de données — BTS SIO 1ère année |
 
 ---
